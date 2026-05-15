@@ -81,6 +81,6 @@ Ensure you have Python 3.8+ installed. Install the required libraries using pip:
 Launch Jupyter and open the core notebook to view the training process, inference results, and launch the Gradio web interface:
   
    ```bash
-   jupyter notebook course-materials/ewaste_classifier_efficientnet.ipynb
+   jupyter notebook ewaste_classifier_efficientnet.ipynb
    ```
    
