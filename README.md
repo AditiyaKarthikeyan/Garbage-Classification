@@ -57,8 +57,8 @@ To explore the code or run the classification model locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/AditiyaKarthikeyan/Garbage-Classification.git
-   cd Garbage-Classification
+   git clone https://github.com/AditiyaKarthikeyan/EfficientNetV2B0-E-Waste-Classifier.git
+   cd EfficientNetV2B0-E-Waste-Classifier
    ```
 
 2. **Install dependencies:**
