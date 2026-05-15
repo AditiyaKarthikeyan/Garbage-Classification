@@ -61,14 +61,23 @@ To explore the code or run the classification model locally:
    cd EfficientNetV2B0-E-Waste-Classifier
    ```
 
-2. **Install dependencies:**
+2. **Download the Dataset:**
+
+   Download the E-Waste Image Dataset from Kaggle.
+
+   Extract the .zip file.
+
+   Place the extracted modified-dataset folder directly into the root directory of this cloned repository.
+
+
+3. **Install dependencies:**
 Ensure you have Python 3.8+ installed. Install the required libraries using pip:
 
    ```bash
    pip install tensorflow numpy pandas matplotlib jupyter gradio
    ```
 
-3. **Run the Notebook:**
+4. **Run the Notebook:**
 Launch Jupyter and open the core notebook to view the training process, inference results, and launch the Gradio web interface:
   
    ```bash
