@@ -5,6 +5,9 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
 
+## Project Context
+This model was developed as part of the **Virtual Internship on Artificial Intelligence and Data Analytics** (June 2025 - July 2025), a program facilitated in collaboration with **AICTE, Shell India Markets Pvt Ltd, and Edunet Foundation**.
+
 ## Overview
 E-waste represents a growing environmental and health challenge globally. Proper sorting and categorization of e-waste is essential for efficient recycling, but manual classification is labor-intensive and error-prone. 
 
