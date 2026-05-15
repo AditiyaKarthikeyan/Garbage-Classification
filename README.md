@@ -1,4 +1,4 @@
-# E-Waste Image Classification Using EfficientNetV2B0 ♻️
+# E-Waste Image Classification Using EfficientNetV2B0
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -50,7 +50,21 @@ To explore the code or run the classification model locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/AditiyaKarthikeyan/Garbage-Classification.git](https://github.com/AditiyaKarthikeyan/Garbage-Classification.git)
+   git clone https://github.com/AditiyaKarthikeyan/Garbage-Classification.git
    cd Garbage-Classification
    ```
+
+2. **Install dependencies:**
+Ensure you have Python 3.8+ installed. Install the required libraries using pip:
+
+  ```bash
+ pip install tensorflow numpy pandas matplotlib jupyter gradio
+ ```
+
+3. **Run the Notebook:**
+Launch Jupyter and open the core notebook to view the training process, inference results, and launch the Gradio web interface:
+
+ ```bash
+jupyter notebook course-materials/ewaste_classifier_efficientnet.ipynb
+```
    
