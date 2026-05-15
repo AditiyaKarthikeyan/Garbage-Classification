@@ -17,6 +17,10 @@ This project implements an automated computer vision system using deep learning 
 
 ## Technical Architecture
 
+### Dataset
+* **Dataset Name:** E-Waste Image Dataset
+* **Source:** https://www.kaggle.com/datasets/akshat103/e-waste-image-dataset
+
 ### Data Processing
 * **Classes:** 10 distinct categories (Battery, Keyboard, Microwave, Mobile, Mouse, PCB, Player, Printer, Television, Washing Machine).
 * **Dataset Split:** 2400 training images, 300 validation images, and 300 test images.
